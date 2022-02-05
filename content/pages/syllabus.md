@@ -49,15 +49,102 @@ Grading
 
 Students will be evaluated by the following criteria:
 
-| ACTIVITIES | PERCENTAGES | GROUP SIZES |
-| --- | --- | --- |
-| {{< td-colspan 4 >}}**Assignments**{{< /td-colspan >}} ||||
-| British Airways I case analysis \* | 20% | 3 or 4 |
-| Ritz-Carlton case analysis \* | 20% | 3 or 4 |
-| Merrill Lynch case analysis \*\* | 20% | 3 or 4 |
-| Call Center Interface case write-up \*\* | 10% | 3 or 4 |
-| Barilla (A) case analysis \*\* | 20% | 3 or 4 |
-| Class Participation | 30% | Individual 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+{{< thopen >}}
+GROUP SIZES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Assignments**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+British Airways I case analysis \*
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+{{< tdopen >}}
+3 or 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ritz-Carlton case analysis \*
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+{{< tdopen >}}
+3 or 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Merrill Lynch case analysis \*\*
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+{{< tdopen >}}
+3 or 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Call Center Interface case write-up \*\*
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+{{< tdopen >}}
+3 or 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Barilla (A) case analysis \*\*
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+{{< tdopen >}}
+3 or 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+{{< tdopen >}}
+Individual
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \* Choose any one of the first two  
 \*\* Assignments required
