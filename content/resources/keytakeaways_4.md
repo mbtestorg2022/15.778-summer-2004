@@ -6,6 +6,7 @@ description: Topics covered in these notes include why matching supply & demand 
   on inventory management, and mechanisms for matching supply and demand.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-778-management-of-supply-networks-for-products-and-services-summer-2004/567d7a5177b190e7ce3fc903211fd33f_keytakeaways_4.pdf
 file_type: application/pdf
+parent_uid: a2693337-2dde-eaca-cc91-e745ab9404a8
 resourcetype: Document
 title: keytakeaways_4.pdf
 uid: 567d7a51-77b1-90e7-ce3f-c903211fd33f
